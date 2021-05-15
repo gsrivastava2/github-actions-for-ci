@@ -1,1 +1,2 @@
-Team's learning approval workflow
+name: Team's learning approval workflow
+on: pull_request_review
